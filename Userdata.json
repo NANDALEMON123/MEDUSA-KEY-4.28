@@ -126,10 +126,10 @@
         "Allowoffline": true
     },
     {
-        "device_id": "f55a014df428c5e3",
-        "key": "NANDA",
-        "expirydate": "31-12-2027",
-        "Allowoffline": false
+        "device_id": "49b055a3867699fa",
+        "key": "VVIP-KAI",
+        "expirydate": "31-12-2028",
+        "Allowoffline": true
     },
     {
         "device_id": "device123",
