@@ -239,10 +239,21 @@
         "expirydate": "15-06-2029",
         "Allowoffline": true
     },
-    
     {
         "device_id": "54c26595951d8aa9",
         "key": "VVIP-YAN",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "2a6f52b3126c1f52",
+        "key": "VVIP-EPAN",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "533b72b7c68e70d4",
+        "key": "VVIP-PINn",
         "expirydate": "15-06-2029",
         "Allowoffline": true
     }
