@@ -238,5 +238,12 @@
         "key": "VVIP-PIN",
         "expirydate": "15-06-2029",
         "Allowoffline": true
+    },
+    
+    {
+        "device_id": "54c26595951d8aa9",
+        "key": "VVIP-YAN",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
     }
 ]
