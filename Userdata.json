@@ -228,10 +228,10 @@
         "Allowoffline": true
     },
     {
-        "device_id": "device456",
-        "key": "key67890",
-        "expirydate": "15-06-2025",
-        "Allowoffline": false
+        "device_id": "be0e1132c7bef4dc",
+        "key": "VVIP-KEY",
+        "expirydate": "15-06-2088",
+        "Allowoffline": true
     },
     {
         "device_id": "device456",
