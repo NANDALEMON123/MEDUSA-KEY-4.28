@@ -256,5 +256,11 @@
         "key": "VVIP-KOJI",
         "expirydate": "15-06-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "5d310f903ff8dcc3",
+        "key": "ARTHUR HAMIL",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
     }
 ]
