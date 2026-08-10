@@ -292,5 +292,11 @@
         "key": "VVIP-TOZZ",
         "expirydate": "15-06-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "a39fa6f5cf532e69",
+        "key": "VVIP-LERY",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
     }
 ]
