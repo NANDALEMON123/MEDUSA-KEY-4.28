@@ -268,5 +268,17 @@
         "key": "VVIP-EDMON",
         "expirydate": "15-06-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "60ecb79d169c4be3",
+        "key": "VVIP-DOSMON",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "a94923c7a8d0bd90",
+        "key": "VVIP-EDMON",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
     }
 ]
