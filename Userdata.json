@@ -294,8 +294,20 @@
         "Allowoffline": true
     },
     {
+        "device_id": "80602b40f6f8b5d9",
+        "key": "VVIP-NADZ",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
+    },
+    {
         "device_id": "a39fa6f5cf532e69",
         "key": "VVIP-LERY",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "80c4ec6a8d10f2ad",
+        "key": "VVIP-ZYRO",
         "expirydate": "15-06-2029",
         "Allowoffline": true
     }
