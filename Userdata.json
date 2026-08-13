@@ -316,6 +316,12 @@
         "key": "VVIP-LUCI",
         "expirydate": "15-06-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "5d67e759016b727c",
+        "key": "VVIP-MIGNON",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
     }
     
 ]
