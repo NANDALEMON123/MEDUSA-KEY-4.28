@@ -322,6 +322,12 @@
         "key": "VVIP-MIGNON",
         "expirydate": "15-06-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "27fa3f912838cc47",
+        "key": "VVIP-NAFA",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
     }
     
 ]
