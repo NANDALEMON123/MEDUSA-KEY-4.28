@@ -328,6 +328,12 @@
         "key": "VVIP-NAFA",
         "expirydate": "15-06-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "e82cc0d3b3ee3866",
+        "key": "VVIP-NIKO",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
     }
     
 ]
