@@ -334,6 +334,12 @@
         "key": "VVIP-MORIS",
         "expirydate": "15-06-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "f2eab611cfd29c70",
+        "key": "VVIP-NOEL",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
     }
     
 ]
