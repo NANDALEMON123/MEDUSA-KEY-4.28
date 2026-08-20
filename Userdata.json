@@ -352,6 +352,12 @@
         "key": "VVIP-ALEE",
         "expirydate": "15-06-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "4fcb11e2a2ebf638",
+        "key": "VVIP-L",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
     }
     
 ]
