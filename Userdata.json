@@ -364,6 +364,12 @@
         "key": "VVIP-CARL JOMOK",
         "expirydate": "15-06-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "6d7398322acb5dc2",
+        "key": "VVIP-ARA SILIT",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
     }
     
 ]
