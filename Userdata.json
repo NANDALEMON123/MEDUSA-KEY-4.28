@@ -346,6 +346,12 @@
         "key": "VVIP-NIKO",
         "expirydate": "15-06-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "1702b216153c6192",
+        "key": "VVIP-ALEE",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
     }
     
 ]
