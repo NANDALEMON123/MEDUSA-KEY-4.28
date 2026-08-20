@@ -358,6 +358,12 @@
         "key": "VVIP-L",
         "expirydate": "15-06-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "bfc9ea5de7a52866",
+        "key": "VVIP-CARL JOMOK",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
     }
     
 ]
