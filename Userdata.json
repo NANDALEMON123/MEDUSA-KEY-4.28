@@ -388,6 +388,13 @@
         "key": "VVIP-KENZO",
         "expirydate": "15-06-2029",
         "Allowoffline": true
+    },
+    
+    {
+        "device_id": "4600b6a635094dd6",
+        "key": "VVIP-KEYYY",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
     }
     
 ]
