@@ -382,6 +382,12 @@
         "key": "Beautifulloxy",
         "expirydate": "15-06-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "b039f13532c0b46a",
+        "key": "VVIP-KENZO",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
     }
     
 ]
