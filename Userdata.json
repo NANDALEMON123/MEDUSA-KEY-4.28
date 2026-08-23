@@ -401,6 +401,12 @@
         "key": "VVIP-PIW",
         "expirydate": "15-06-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "dda2d7047c94d658",
+        "key": "VVIP-RA",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
     }
     
 ]
