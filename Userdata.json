@@ -419,6 +419,12 @@
         "key": "AZACINTAMONA",
         "expirydate": "15-06-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "500ab9d0627bf74c",
+        "key": "VVIP-SHEN KYUT",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
     }
     
 ]
