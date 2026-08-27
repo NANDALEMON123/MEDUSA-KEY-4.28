@@ -437,6 +437,12 @@
         "key": "VVIP-VIPER",
         "expirydate": "15-06-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "8438b229562fbd4c",
+        "key": "VVIP-VIPERR",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
     }
     
 ]
