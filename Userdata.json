@@ -431,6 +431,12 @@
         "key": "PUTRA JOMOK",
         "expirydate": "15-06-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "8c6f09027fd5fa73",
+        "key": "VVIP-VIPER",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
     }
     
 ]
