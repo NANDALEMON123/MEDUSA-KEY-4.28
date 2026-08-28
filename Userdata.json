@@ -443,6 +443,12 @@
         "key": "VVIP-VIPERR",
         "expirydate": "15-06-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "ee3ddcc84bb53914",
+        "key": "VVIP-REY JOMOK",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
     }
     
 ]
