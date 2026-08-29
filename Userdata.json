@@ -467,6 +467,12 @@
         "key": "VVIP-OCILOVE",
         "expirydate": "15-06-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "2e5317a307be4209",
+        "key": "VVIP-FANN",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
     }
     
 ]
