@@ -449,6 +449,12 @@
         "key": "VVIP-REY JOMOK",
         "expirydate": "15-06-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "a4af824a4d17c859",
+        "key": "VVIP-HANIE",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
     }
     
 ]
