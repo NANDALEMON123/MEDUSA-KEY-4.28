@@ -461,6 +461,12 @@
         "key": "VVIP-HANIEE",
         "expirydate": "15-06-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "6bad1cf5997b2373",
+        "key": "VVIP-OCILOVE",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
     }
     
 ]
