@@ -473,6 +473,12 @@
         "key": "VVIP-FANN",
         "expirydate": "15-06-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "692d5e8753afd747",
+        "key": "VVIP-XIO",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
     }
     
 ]
