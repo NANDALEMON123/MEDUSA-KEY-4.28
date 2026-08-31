@@ -479,6 +479,12 @@
         "key": "VVIP-XIO",
         "expirydate": "15-06-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "66765592143821cc",
+        "key": "VVIP-CAY",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
     }
     
 ]
