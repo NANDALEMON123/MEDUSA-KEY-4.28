@@ -491,6 +491,12 @@
         "key": "VVIP-PENDO",
         "expirydate": "15-06-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "55d8f1e76da54f68",
+        "key": "VVIP-XAVV",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
     }
     
 ]
