@@ -497,6 +497,12 @@
         "key": "VVIP-XAVV",
         "expirydate": "15-06-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "2c1a55355defabce",
+        "key": "VVIP-ELIN",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
     }
     
 ]
