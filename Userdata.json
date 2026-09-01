@@ -515,6 +515,12 @@
         "key": "VVIP-MAJUL",
         "expirydate": "15-06-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "b18680c16d940249",
+        "key": "VVIP-AZ",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
     }
     
 ]
