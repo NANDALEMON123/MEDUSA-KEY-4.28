@@ -527,6 +527,12 @@
         "key": "VVIP-LERYY",
         "expirydate": "15-06-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "f962dbed3d78fb40",
+        "key": "VVIP-ATHENA",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
     }
     
 ]
