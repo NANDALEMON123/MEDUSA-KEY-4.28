@@ -521,6 +521,12 @@
         "key": "VVIP-AZ",
         "expirydate": "15-06-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "fe33642bb80f3a98",
+        "key": "VVIP-LERYY",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
     }
     
 ]
