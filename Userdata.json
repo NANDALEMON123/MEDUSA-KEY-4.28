@@ -539,6 +539,12 @@
         "key": "VVIP-HANZ",
         "expirydate": "15-06-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "5188bb61d310a5a0",
+        "key": "VVIP-SPICYYY",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
     }
     
 ]
