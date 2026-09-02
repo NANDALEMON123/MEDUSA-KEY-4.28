@@ -533,6 +533,12 @@
         "key": "VVIP-ATHENA",
         "expirydate": "15-06-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "997ea0235172f761",
+        "key": "VVIP-HANZ",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
     }
     
 ]
