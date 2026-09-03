@@ -545,6 +545,12 @@
         "key": "VVIP-MALAY",
         "expirydate": "15-06-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "61e50c3ce357208f",
+        "key": "VVIP-COCO",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
     }
     
 ]
