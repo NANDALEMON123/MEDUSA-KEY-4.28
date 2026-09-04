@@ -557,6 +557,12 @@
         "key": "VVIP-UCUP",
         "expirydate": "15-06-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "085099072d25f269",
+        "key": "VVIP-BE JOMOK",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
     }
     
 ]
