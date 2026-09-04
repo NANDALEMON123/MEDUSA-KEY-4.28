@@ -569,6 +569,12 @@
         "key": "VVIP-NM RYY",
         "expirydate": "15-06-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "2a9f462282e624bc",
+        "key": "VVIP-ARTURMOD",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
     }
     
 ]
