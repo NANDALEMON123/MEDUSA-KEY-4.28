@@ -551,6 +551,12 @@
         "key": "VVIP-COCO",
         "expirydate": "15-06-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "f4aca1f825a99c05",
+        "key": "VVIP-UCUP",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
     }
     
 ]
