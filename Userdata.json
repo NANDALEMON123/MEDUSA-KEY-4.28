@@ -563,6 +563,12 @@
         "key": "VVIP-BE JOMOK",
         "expirydate": "15-06-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "66cf2c1d41ff5098",
+        "key": "VVIP-NM RYY",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
     }
     
 ]
