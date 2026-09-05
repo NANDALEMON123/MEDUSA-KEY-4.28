@@ -575,6 +575,12 @@
         "key": "VVIP-ARTURMOD",
         "expirydate": "15-06-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "31d3289a42f1878d",
+        "key": "VVIP-DAREN",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
     }
     
 ]
