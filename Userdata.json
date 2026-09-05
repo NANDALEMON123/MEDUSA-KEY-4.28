@@ -581,6 +581,12 @@
         "key": "VVIP-DAREN",
         "expirydate": "15-06-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "3fd897419c18fe8b",
+        "key": "VVIP-ZEZO",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
     }
     
 ]
