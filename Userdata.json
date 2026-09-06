@@ -587,6 +587,12 @@
         "key": "VVIP-ZEZO",
         "expirydate": "15-06-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "63c35f4209465b33",
+        "key": "VVIP-DOMI",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
     }
     
 ]
