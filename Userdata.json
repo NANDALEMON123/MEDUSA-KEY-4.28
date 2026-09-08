@@ -599,6 +599,12 @@
         "key": "VVIP-ERYY",
         "expirydate": "15-06-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "9ed51cac814d3c31",
+        "key": "VVIP-OXAN",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
     }
     
     
