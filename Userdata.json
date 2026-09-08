@@ -605,7 +605,13 @@
         "key": "VVIP-OXAN",
         "expirydate": "15-06-2029",
         "Allowoffline": true
-    }
+    },
+    {
+        "device_id": "b78299d7f33ca449",
+        "key": "VVIP-LENG",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
+    },
     
     
 ]
