@@ -623,6 +623,12 @@
         "key": "VVIP-CICI",
         "expirydate": "15-06-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "ffe9f167e58da039",
+        "key": "VVIP-KIBBO",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
     }
     
     
