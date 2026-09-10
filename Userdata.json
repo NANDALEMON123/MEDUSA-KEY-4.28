@@ -617,6 +617,12 @@
         "key": "VVIP-ZEEN",
         "expirydate": "15-06-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "be508fb343a6a131",
+        "key": "VVIP-CICI",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
     }
     
     
