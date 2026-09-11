@@ -601,7 +601,7 @@
         "Allowoffline": true
     },
     {
-        "device_id": "9ed51cac814d3c31",
+        "device_id": "8d14e897aff57290",
         "key": "VVIP-OXAN",
         "expirydate": "15-06-2029",
         "Allowoffline": true
@@ -627,6 +627,12 @@
     {
         "device_id": "ffe9f167e58da039",
         "key": "VVIP-MORIST",
+        "expirydate": "15-06-2029",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "dc91fb390640b15a",
+        "key": "VVIP-KOSMIK",
         "expirydate": "15-06-2029",
         "Allowoffline": true
     }
